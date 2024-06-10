@@ -6,3 +6,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#Example tasklist
+- [ ] Complete this course
+- [ ] Do other courses
+- [ ] Create repository for project
